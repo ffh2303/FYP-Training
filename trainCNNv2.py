@@ -5,6 +5,8 @@ This works when converting to tflite or protobuf
 Code is refactored to Tensorflow 1.13, python 3.73, keras 2.24
 Code is tested on a machine with i7 7700HQ and GTX 1060 6GB
 
+Test for first commit
+
 """
 import tensorflow as tf
 from tensorflow import keras
